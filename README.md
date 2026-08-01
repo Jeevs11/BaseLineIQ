@@ -20,7 +20,7 @@ Rather than predicting the future, BaselineIQ focuses on understanding the prese
 # Workflow
 
 <p align="center">
-  <img src="images/Workflow.png" width="900">
+  <img src="Image/Workflow.png" width="900">
 </p>
 
 ---
@@ -28,7 +28,7 @@ Rather than predicting the future, BaselineIQ focuses on understanding the prese
 # Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" width="900">
+  <img src="Image/dashboard.png" width="900">
 </p>
 
 ---
@@ -176,7 +176,7 @@ Displays indicator-level percentage changes across public health themes using ro
 Highlights indicators with the largest positive changes between NFHS-4 and NFHS-5.
 
 <p align="center">
-  <img src="images/Improvements.png" width="900">
+  <img src="Image/Improvements.png" width="900">
 </p>
 
 
@@ -187,7 +187,7 @@ Highlights indicators with the largest positive changes between NFHS-4 and NFHS-
 Highlights indicators requiring greater monitoring attention.
 
 <p align="center">
-  <img src="images/decline.png" width="900">
+  <img src="Image/decline.png" width="900">
 </p>
 
 
