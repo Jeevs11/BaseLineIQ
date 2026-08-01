@@ -1,5 +1,5 @@
 # BaselineIQ
-### A Sentinel for Public Health Trends
+## A Sentinel for Public Health Trends
 
 ## Why this project?
 
