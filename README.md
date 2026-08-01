@@ -192,32 +192,11 @@ Highlights indicators requiring greater monitoring attention.
 
 ---
 
-# Repository Structure
-
-```
-BaselineIQ/
-│
-├── BaselineIQ.ipynb
-├── data/
-│   └── nfhs_district_data.csv
-├── images/
-│   ├── workflow.png
-│   ├── dashboard.png
-│   ├── heatmap.png
-│   ├── improvements.png
-│   └── declines.png
-├── README.md
-└── LICENSE
-```
-
----
-
 # Design Principles
 
 A few decisions guided the development of this notebook:
 
 - Reproducibility over complexity
-- Readability over cleverness
 - Transparent calculations over black-box methods
 - Clear storytelling through visualization
 - Modular code that can be adapted to other districts
@@ -242,10 +221,6 @@ Potential extensions include:
 This project was built as a portfolio exercise to explore how public health survey data can be transformed into clear, reproducible analytical insights.
 
 While the workflow focuses on a single district for demonstration, the analytical pipeline was intentionally designed to be adaptable, transparent, and easy to extend.
-
-Sometimes the most valuable insight isn't hidden inside a sophisticated machine learning model.
-
-Sometimes it's already sitting quietly inside a public dataset—waiting to be noticed.
 
 ---
 
