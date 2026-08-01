@@ -174,6 +174,10 @@ Displays indicator-level percentage changes across public health themes using ro
 
 Highlights indicators with the largest positive changes between NFHS-4 and NFHS-5.
 
+<p align="center">
+  <img src="images/improvements.png" width="900">
+</p>
+
 
 ---
 
@@ -216,11 +220,6 @@ A few decisions guided the development of this notebook:
 ---
 
 # Future Improvements
-
-<p align="center">
-  <img src="images/improvements.png" width="900">
-</p>
-
 
 Potential extensions include:
 
