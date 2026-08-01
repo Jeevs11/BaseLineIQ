@@ -175,7 +175,7 @@ Displays indicator-level percentage changes across public health themes using ro
 Highlights indicators with the largest positive changes between NFHS-4 and NFHS-5.
 
 <p align="center">
-  <img src="images/improvements.png" width="900">
+  <img src="images/Improvements.png" width="900">
 </p>
 
 
@@ -184,6 +184,11 @@ Highlights indicators with the largest positive changes between NFHS-4 and NFHS-
 ### Largest Declines
 
 Highlights indicators requiring greater monitoring attention.
+
+<p align="center">
+  <img src="images/decline.png" width="900">
+</p>
+
 
 ---
 
