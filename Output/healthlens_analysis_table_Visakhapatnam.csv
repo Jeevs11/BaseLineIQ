@@ -35,7 +35,7 @@ indicator_number,indicator_short_label,theme,nfhs4_value,nfhs5_value,absolute_ch
 84,All women age 15-49 years who are anaemic(%),Anaemia (Women & Children),66.4,58.0,-8.4,-12.65,Improved
 85,All women age 15-19 years who are anaemic(%),Anaemia (Women & Children),71.9,58.9,-13.0,-18.08,Improved
 86,Blood sugar level - high (141-160 mg/dl)(%),Lifestyle-Related NCDs & Screening,,6.1,,,No baseline
-87,Blood sugar level - very high (>160 mg/dl)(%),Lifestyle-Related NCDs & Screening,,8.6,,,No baseline
+87,Blood sugar level - very high (>160 mg/dl)(%),Lifestyle-Related NCDs & Screening,,8.6,,,No baselline
 88,Blood sugar level - high or very high (>140 mg/dl) or…,Lifestyle-Related NCDs & Screening,,17.0,,,No baseline
 92,Mildly elevated blood pressure (Systolic 140-159 mm of…,Lifestyle-Related NCDs & Screening,,12.1,,,No baseline
 93,Moderately or severely elevated blood pressure…,Lifestyle-Related NCDs & Screening,,5.9,,,No baseline
