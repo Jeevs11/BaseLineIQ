@@ -9,7 +9,7 @@ From increasing lifestyle diseases to changing nutritional patterns, respiratory
 
 This project was built to fulfill this intent:
 
-> **To transform thousands of rows of public health survey data into something that immediately highlights where attention is needed?**
+> **To transform thousands of rows of public health survey data into something that immediately highlights where attention is needed**
 
 BaselineIQ is a reproducible data analytics workflow that compares **NFHS-4** and **NFHS-5** district-level health indicators, identifies meaningful changes over time, prioritizes indicators requiring monitoring, and presents the findings through publication-ready visualizations.
 
@@ -62,7 +62,7 @@ District-level indicators from:
 - NFHS-4
 - NFHS-5
 
->>The notebook currently demonstrates the workflow using **Visakhapatnam, Andhra Pradesh**, although the pipeline is designed to be reusable for any district with compatible data.
+>The notebook currently demonstrates the workflow using **Visakhapatnam, Andhra Pradesh**, although the pipeline is designed to be reusable for any district with compatible data.
 
 ---
 
@@ -81,7 +81,7 @@ District-level indicators from:
 
 # Analytical Workflow
 
-The notebook follows a structured analytical pipeline rather than isolated scripts.
+The notebook follows a structured analytical pipeline.
 
 ## 1. Data Preparation
 
@@ -174,6 +174,7 @@ Displays indicator-level percentage changes across public health themes using ro
 
 Highlights indicators with the largest positive changes between NFHS-4 and NFHS-5.
 
+
 ---
 
 ### Largest Declines
@@ -215,6 +216,11 @@ A few decisions guided the development of this notebook:
 ---
 
 # Future Improvements
+
+<p align="center">
+  <img src="images/improvements.png" width="900">
+</p>
+
 
 Potential extensions include:
 
