@@ -1,8 +1,6 @@
 # BaselineIQ
 ### A Sentinel for Public Health Trends
 
----
-
 ## Why this project?
 
 Our generation has witnessed an extraordinary surge in technology, industrialization, urbanization, and digital connectivity. While these advancements have undeniably improved quality of life, they have also quietly reshaped our health in ways that often go unnoticed.
