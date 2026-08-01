@@ -1,0 +1,49 @@
+indicator_short_label,theme,trend,percentage_change,priority_score
+Ever undergone an oral cavity examination for oral…,Lifestyle-Related NCDs & Screening,No baseline,,1.0
+Mildly elevated blood pressure (Systolic 140-159 mm of…,Lifestyle-Related NCDs & Screening,No baseline,,1.0
+Blood sugar level - high or very high (>140 mg/dl) or…,Lifestyle-Related NCDs & Screening,No baseline,,1.0
+Blood sugar level - high (141-160 mg/dl)(%),Lifestyle-Related NCDs & Screening,No baseline,,1.0
+Moderately or severely elevated blood pressure…,Lifestyle-Related NCDs & Screening,No baseline,,1.0
+Ever undergone a breast examination for breast cancer…,Lifestyle-Related NCDs & Screening,No baseline,,1.0
+Ever undergone a screening test for cervical cancer (%),Lifestyle-Related NCDs & Screening,No baseline,,1.0
+Elevated blood pressure (Systolic ≥140 mm of Hg and/or…,Lifestyle-Related NCDs & Screening,No baseline,,1.0
+Children with fever or symptoms of ARI in the 2 weeks…,Respiratory & Waterborne Illness,No baseline,,1.0
+Children with diarrhoea in the 2 weeks preceding the…,Respiratory & Waterborne Illness,No baseline,,1.0
+Children with diarrhoea in the 2 weeks preceding the…,Respiratory & Waterborne Illness,No baseline,,1.0
+Blood sugar level - very high (>160 mg/dl)(%),Lifestyle-Related NCDs & Screening,No baseline,,1.0
+Children with diarrhoea in the 2 weeks preceding the…,Respiratory & Waterborne Illness,No baseline,,1.0
+Women age 15 years and above who consume alcohol (%),Substance Use,No baseline,,0.975
+Men age 15 years and above who use any kind of tobacco…,Substance Use,No baseline,,0.975
+Women age 15 years and above who use any kind of…,Substance Use,No baseline,,0.975
+Men age 15 years and above who consume alcohol (%),Substance Use,No baseline,,0.975
+Pregnant women age 15-49 years who are anaemic (<11.0…,Anaemia (Women & Children),No baseline,,0.95
+Women who have high risk waist-to-hip ratio (≥0.85) (%),Women's Nutritional Status (BMI),No baseline,,0.925
+Children under 5 years who are severely wasted…,Child Nutrition & Growth,Declined,646.67,0.833
+Home births that were conducted by skilled health…,Maternal & Newborn Care Access,Declined,-100.0,0.75
+Prevalence of symptoms of acute respiratory infection…,Respiratory & Waterborne Illness,Declined,,0.667
+Children under 5 years who are wasted (weight-for-…,Child Nutrition & Growth,Declined,25.0,0.601
+Children age 6-59 months who are anaemic (<11.0…,Anaemia (Women & Children),Declined,12.56,0.551
+Mothers who had at least 4 antenatal care visits (%),Maternal & Newborn Care Access,Declined,-28.36,0.531
+Children under 5 years who are stunted (height-for-…,Child Nutrition & Growth,Declined,2.99,0.512
+Children under 5 years who are underweight (weight-…,Child Nutrition & Growth,Declined,1.21,0.505
+Children under 5 years who are overweight (weight-for-…,Child Nutrition & Growth,Declined,,0.5
+Prevalence of diarrhoea in the 2 weeks preceding the…,Respiratory & Waterborne Illness,Improved,-7.95,0.465
+Children age 12-23 months who have received 3 doses of…,Child Immunization Coverage,Declined,-3.0,0.429
+Children age 12-23 months who have received BCG (%),Child Immunization Coverage,Declined,-2.1,0.425
+Households using iodized salt (%),Infrastructure & Environmental Access,Declined,-9.07,0.37
+All women age 15-19 years who are anaemic(%),Anaemia (Women & Children),Improved,-18.08,0.34
+All women age 15-49 years who are anaemic(%),Anaemia (Women & Children),Improved,-12.65,0.318
+Non-pregnant women age 15-49 years who are anaemic…,Anaemia (Women & Children),Improved,-12.01,0.315
+Population living in households that use an improved…,Infrastructure & Environmental Access,Improved,42.23,0.27
+Women who are overweight or obese (BMI ≥25.0 kg/m2)(%),Women's Nutritional Status (BMI),Improved,-17.36,0.253
+Children age 12-23 months fully vaccinated based on…,Child Immunization Coverage,Improved,15.91,0.247
+Births attended by skilled health personnel(%),Maternal & Newborn Care Access,Improved,14.7,0.243
+Institutional births (%),Maternal & Newborn Care Access,Improved,12.25,0.233
+Households using clean fuel for cooking(%),Infrastructure & Environmental Access,Improved,29.95,0.221
+Women whose Body Mass Index (BMI) is below normal (BMI…,Women's Nutritional Status (BMI),Improved,-7.94,0.215
+Children age 12-23 months who have received the first…,Child Immunization Coverage,Improved,6.49,0.21
+Registered pregnancies for which the mother received a…,Maternal & Newborn Care Access,Improved,3.19,0.196
+Mothers who had an antenatal check-up in the first…,Maternal & Newborn Care Access,Improved,1.93,0.191
+Children age 12-23 months who have received 3 doses of…,Child Immunization Coverage,Improved,0.66,0.186
+Population living in households with an improved…,Infrastructure & Environmental Access,Improved,2.8,0.111
+Population living in households with electricity (%),Infrastructure & Environmental Access,Improved,0.5,0.102
