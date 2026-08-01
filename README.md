@@ -7,9 +7,9 @@ Our generation has witnessed an extraordinary surge in technology, industrializa
 
 From increasing lifestyle diseases to changing nutritional patterns, respiratory illnesses, and access to healthcare, public health is constantly evolving. Yet, these shifts are often buried inside enormous national survey datasets that few people ever explore.
 
-This project was built to answer a simple question:
+This project was built to fulfill this intent:
 
-> **Can we transform thousands of rows of public health survey data into something that immediately highlights where attention is needed?**
+> **To transform thousands of rows of public health survey data into something that immediately highlights where attention is needed?**
 
 BaselineIQ is a reproducible data analytics workflow that compares **NFHS-4** and **NFHS-5** district-level health indicators, identifies meaningful changes over time, prioritizes indicators requiring monitoring, and presents the findings through publication-ready visualizations.
 
@@ -62,7 +62,7 @@ District-level indicators from:
 - NFHS-4
 - NFHS-5
 
-The notebook currently demonstrates the workflow using **Visakhapatnam, Andhra Pradesh**, although the pipeline is designed to be reusable for any district with compatible data.
+>>The notebook currently demonstrates the workflow using **Visakhapatnam, Andhra Pradesh**, although the pipeline is designed to be reusable for any district with compatible data.
 
 ---
 
