@@ -20,7 +20,7 @@ Rather than predicting the future, BaselineIQ focuses on understanding the prese
 # Workflow
 
 <p align="center">
-  <img src="images/workflow.png" width="900">
+  <img src="images/Workflow.png" width="900">
 </p>
 
 ---
