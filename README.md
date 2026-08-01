@@ -56,7 +56,7 @@ Everything runs inside a single Google Colab notebook without requiring any loca
 **Source**
 
 National Family Health Survey (NFHS)
->This project uses publicly available district-level data from India's National Family Health Survey (NFHS). The notebook automatically downloads the required dataset during execution, ensuring the workflow remains reproducible without requiring manual data setup.
+This project uses publicly available district-level data from India's National Family Health Survey (NFHS). The notebook automatically downloads the required dataset during execution, ensuring the workflow remains reproducible without requiring manual data setup.
 
 District-level indicators from:
 
